@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (5 days ago)
+- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (6 days ago)
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt (1 week ago)
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures &amp; Algorithms Java bootcamp. (1 week ago)
 - [Hiroshiba/voicevox](https://github.com/Hiroshiba/voicevox) -  (2 weeks ago)
