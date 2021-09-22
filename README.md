@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (today)
-- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (5 days ago)
+- [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing) - GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world&#39;s largest multilingual content repository that will be available to everyone.  (today)
+- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (1 day ago)
+- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (6 days ago)
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! (1 week ago)
 - [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app. (2 weeks ago)
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (2 weeks ago)
@@ -16,7 +17,6 @@
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (1 month ago)
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt (1 month ago)
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures &amp; Algorithms Java bootcamp. (1 month ago)
-- [Hiroshiba/voicevox](https://github.com/Hiroshiba/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのフロントエンド (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
