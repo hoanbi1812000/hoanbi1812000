@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [peng-zhihui/Peak](https://github.com/peng-zhihui/Peak) - Tiny Mobile Terminal Device Kit. (2 days ago)
-- [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展 (5 days ago)
+- [peng-zhihui/Peak](https://github.com/peng-zhihui/Peak) - Tiny Mobile Terminal Device Kit. (3 days ago)
+- [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展 (6 days ago)
 - [googleprojectzero/weggli](https://github.com/googleprojectzero/weggli) - weggli is a fast and robust semantic search tool for C and C&#43;&#43; codebases. It is designed to help security researchers identify interesting functionality in large codebases. (1 week ago)
 - [fofapro/fapro](https://github.com/fofapro/fapro) - Fake Protocol Server (1 week ago)
 - [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。 (1 week ago)
-- [ai/nanocolors](https://github.com/ai/nanocolors) - Use picocolors instead. It is 3 times smaller and 50% faster. (1 week ago)
+- [ai/nanocolors](https://github.com/ai/nanocolors) - Use picocolors instead. It is 3 times smaller and 50% faster. (2 weeks ago)
 - [davidpdrsn/todo-or-die](https://github.com/davidpdrsn/todo-or-die) - TODOs you cannot forget! (2 weeks ago)
 - [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (3 weeks ago)
 - [ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) - Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone (3 weeks ago)
