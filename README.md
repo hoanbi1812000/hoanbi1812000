@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called &#34;Ethereum Boilerplate&#34; it works with any EVM system and even Solana support is coming soon!  Happy BUIDL!👷‍♂️ (1 day ago)
-- [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg. (2 days ago)
-- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (4 days ago)
+- [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called &#34;Ethereum Boilerplate&#34; it works with any EVM system and even Solana support is coming soon!  Happy BUIDL!👷‍♂️ (2 days ago)
+- [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg. (3 days ago)
+- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (5 days ago)
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot (1 week ago)
 - [tmp-iclr/convmixer](https://github.com/tmp-iclr/convmixer) -  (2 weeks ago)
 - [darglein/ADOP](https://github.com/darglein/ADOP) -  (2 weeks ago)
