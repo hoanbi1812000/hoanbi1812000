@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output (1 day ago)
-- [stong/infosec-resources](https://github.com/stong/infosec-resources) - A list of helpful cybersecurity / infosec resources (5 days ago)
+- [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output (2 days ago)
+- [stong/infosec-resources](https://github.com/stong/infosec-resources) - A list of helpful cybersecurity / infosec resources (6 days ago)
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library (1 week ago)
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install (1 week ago)
 - [LinusHenze/Fugu14](https://github.com/LinusHenze/Fugu14) - Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak (2 weeks ago)
