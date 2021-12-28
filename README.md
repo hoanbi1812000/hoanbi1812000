@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (1 day ago)
-- [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 (5 days ago)
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (2 days ago)
+- [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 (6 days ago)
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (1 week ago)
 - [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here. (1 week ago)
 - [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners (2 weeks ago)
