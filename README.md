@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (4 days ago)
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (5 days ago)
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 (1 week ago)
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (1 week ago)
 - [publiusfederalist/federalist](https://github.com/publiusfederalist/federalist) - Access files on the decentralized, unblockable torrent swarm and visit links using Handshake domains.  Decentralized internet is here. (2 weeks ago)
