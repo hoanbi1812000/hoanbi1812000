@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. (today)
+- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple DL compilers (today)
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. (1 day ago)
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust. (1 week ago)
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC (1 week ago)
-- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (1 week ago)
+- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (2 weeks ago)
 - [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support. (2 weeks ago)
 - [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos (2 weeks ago)
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the next-generation media server. (3 weeks ago)
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (3 weeks ago)
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop (3 weeks ago)
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
