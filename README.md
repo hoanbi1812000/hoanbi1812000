@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable (1 day ago)
-- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple DL compilers (3 days ago)
-- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. (4 days ago)
-- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust. (1 week ago)
+- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable (2 days ago)
+- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple DL compilers (4 days ago)
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. (5 days ago)
+- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust. (2 weeks ago)
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC (2 weeks ago)
 - [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (2 weeks ago)
 - [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support. (3 weeks ago)
