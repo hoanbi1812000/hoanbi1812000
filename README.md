@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (1 day ago)
-- [admin360bug/Compendium-of-Materia-Medica](https://github.com/admin360bug/Compendium-of-Materia-Medica) - 本草纲目V1.4版本 (2 days ago)
-- [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (6 days ago)
+- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (2 days ago)
+- [admin360bug/Compendium-of-Materia-Medica](https://github.com/admin360bug/Compendium-of-Materia-Medica) - 本草纲目V1.4版本 (3 days ago)
+- [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (1 week ago)
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (1 week ago)
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates (1 week ago)
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (2 weeks ago)
