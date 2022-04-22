@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - :fire: A series of code examples for all sorts of machine learning tasks and applications. (4 days ago)
-- [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (5 days ago)
+- [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - :fire: A series of code examples for all sorts of machine learning tasks and applications. (5 days ago)
+- [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。 (6 days ago)
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (1 week ago)
 - [admin360bug/Compendium-of-Materia-Medica](https://github.com/admin360bug/Compendium-of-Materia-Medica) - 本草纲目V1.4版本 (1 week ago)
 - [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (2 weeks ago)
