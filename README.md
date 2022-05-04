@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Dec0ne/KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp) - KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings). (today)
-- [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - Translate your TypeScript errors into plain English (2 days ago)
+- [Dec0ne/KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp) - KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings). (1 day ago)
+- [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - Translate your TypeScript errors into plain English (3 days ago)
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform standalone terminal app extract from Visual Studio Code. (1 week ago)
 - [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (1 week ago)
 - [dair-ai/ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) - :fire: A series of code examples for all sorts of machine learning tasks and applications. (2 weeks ago)
