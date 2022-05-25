@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text (2 days ago)
-- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (3 days ago)
-- [1Marc/todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - Vanilla JS TodoMVC App in 2022 (5 days ago)
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text (3 days ago)
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (4 days ago)
+- [1Marc/todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - Vanilla JS TodoMVC App in 2022 (6 days ago)
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - The most trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React! (1 week ago)
 - [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (2 weeks ago)
 - [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) - This repository provides motion datasets collected by Bandai Namco Research Inc (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [about-github](https://github.com/about-github)
 - [X601169957911](https://github.com/X601169957911)
 - [Hiimsonkul](https://github.com/Hiimsonkul)
 - [changtraixuqang97](https://github.com/changtraixuqang97)
 - [logit507](https://github.com/logit507)
-- [sarutobi12](https://github.com/sarutobi12)
 
 #### 💬 Feedback
 
