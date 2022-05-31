@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [eludadev/css-buttons](https://github.com/eludadev/css-buttons) - 100 Modern CSS Buttons, Free And Royalty Free. (today)
-- [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 &#43; TypeScript &#43; Vite &#43; Ant Design &#43; MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~ (1 day ago)
-- [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer (4 days ago)
+- [eludadev/css-buttons](https://github.com/eludadev/css-buttons) - 100 Modern CSS Buttons, Free And Royalty Free. (1 day ago)
+- [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 &#43; TypeScript &#43; Vite &#43; Ant Design &#43; MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~ (2 days ago)
+- [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer (5 days ago)
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text (1 week ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (1 week ago)
 - [1Marc/todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - Vanilla JS TodoMVC App in 2022 (1 week ago)
