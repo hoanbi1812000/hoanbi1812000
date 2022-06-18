@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [jeffhill/Dota2](https://github.com/jeffhill/Dota2) - Public Bug Tracker for Dota2 (today)
-- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. (2 days ago)
-- [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit (5 days ago)
-- [Planetable/Planet](https://github.com/Planetable/Planet) - Decentralized blogs and websites powered by IPFS and Ethereum Name System (6 days ago)
+- [jeffhill/Dota2](https://github.com/jeffhill/Dota2) - Public Bug Tracker for Dota2 (1 day ago)
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. (3 days ago)
+- [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit (6 days ago)
+- [Planetable/Planet](https://github.com/Planetable/Planet) - Decentralized blogs and websites powered by IPFS and Ethereum Name System (1 week ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (1 week ago)
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework. (2 weeks ago)
 - [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) - 100 Modern CSS Buttons. Every Style That You Can Imagine. (2 weeks ago)
