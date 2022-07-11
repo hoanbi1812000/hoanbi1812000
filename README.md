@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (2 days ago)
-- [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line (4 days ago)
-- [eserozvataf/hayalet-sevgilim-sarki-sozleri](https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri) -  (6 days ago)
+- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (3 days ago)
+- [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line (5 days ago)
+- [eserozvataf/hayalet-sevgilim-sarki-sozleri](https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri) -  (1 week ago)
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges (1 week ago)
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (1 week ago)
 - [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (1 week ago)
