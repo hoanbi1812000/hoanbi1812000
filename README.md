@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (today)
-- [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV&#39;22 Oral] Towards Grand Unification of Object Tracking (4 days ago)
-- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (6 days ago)
+- [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (1 day ago)
+- [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV&#39;22 Oral] Towards Grand Unification of Object Tracking (5 days ago)
+- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 week ago)
 - [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities. (1 week ago)
 - [webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - Collection of Vue.js challenges (1 week ago)
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (1 week ago)
