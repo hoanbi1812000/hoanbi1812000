@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (today)
-- [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions (1 day ago)
-- [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200&#43; detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. (3 days ago)
-- [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (5 days ago)
+- [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (1 day ago)
+- [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions (2 days ago)
+- [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200&#43; detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. (4 days ago)
+- [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (6 days ago)
 - [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps (1 week ago)
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (1 week ago)
 - [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV&#39;22 Oral] Towards Grand Unification of Object Tracking (2 weeks ago)
