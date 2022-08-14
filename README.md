@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. (2 days ago)
-- [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (4 days ago)
-- [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions (5 days ago)
+- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. (3 days ago)
+- [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (5 days ago)
+- [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions (6 days ago)
 - [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200&#43; detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. (1 week ago)
 - [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (1 week ago)
 - [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps (1 week ago)
