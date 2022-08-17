@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - EvoTorch is an advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE. (1 day ago)
-- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. (5 days ago)
+- [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - EvoTorch is an advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE. (2 days ago)
+- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. (6 days ago)
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) -  (1 week ago)
 - [manoss96/pregex](https://github.com/manoss96/pregex) - PRegEx - Programmable Regular Expressions (1 week ago)
 - [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200&#43; detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. (1 week ago)
