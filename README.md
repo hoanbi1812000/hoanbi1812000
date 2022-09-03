@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (today)
-- [rxrw/daily_morning](https://github.com/rxrw/daily_morning) - 给别人家的女朋友发早安 (1 day ago)
-- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend (5 days ago)
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (1 day ago)
+- [rxrw/daily_morning](https://github.com/rxrw/daily_morning) - 给别人家的女朋友发早安 (2 days ago)
+- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend (6 days ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 week ago)
 - [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources (1 week ago)
 - [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (2 weeks ago)
