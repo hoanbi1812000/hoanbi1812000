@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 day ago)
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (3 days ago)
-- [rxrw/daily_morning](https://github.com/rxrw/daily_morning) - 给别人家的女朋友发早安 (4 days ago)
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (2 days ago)
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (4 days ago)
+- [rxrw/daily_morning](https://github.com/rxrw/daily_morning) - 给别人家的女朋友发早安 (5 days ago)
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend (1 week ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 week ago)
-- [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources (1 week ago)
+- [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources (2 weeks ago)
 - [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (2 weeks ago)
 - [kifuan/helang](https://github.com/kifuan/helang) - 何语言，次世代赛博编程语言。 (2 weeks ago)
 - [nnaisense/evotorch](https://github.com/nnaisense/evotorch) - EvoTorch is an advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE. (3 weeks ago)
