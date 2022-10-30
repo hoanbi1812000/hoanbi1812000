@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) - Bumble&#39;s Private Detector - a pretrained model for detecting lewd images (1 day ago)
+- [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) - Bumble&#39;s Private Detector - a pretrained model for detecting lewd images (2 days ago)
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. (1 week ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (1 week ago)
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) -  (1 week ago)
