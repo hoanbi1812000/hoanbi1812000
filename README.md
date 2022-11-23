@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (3 days ago)
-- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想绵薄之力！ (5 days ago)
+- [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (4 days ago)
+- [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想绵薄之力！ (6 days ago)
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) - Bumble&#39;s Private Detector - a pretrained model for detecting lewd images (3 weeks ago)
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. (1 month ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (1 month ago)
