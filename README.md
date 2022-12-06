@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal (5 days ago)
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (today)
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal (6 days ago)
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度 (1 week ago)
 - [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs (1 week ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (2 weeks ago)
@@ -16,7 +17,6 @@
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. (1 month ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (1 month ago)
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) -  (1 month ago)
-- [NaiboWang/CommandlineConfig](https://github.com/NaiboWang/CommandlineConfig) - A library for users to write (experiment in research) configurations in Python Dict or JSON format, read and write parameter value via dot . in code, while can read parameters from the command line to modify values. 一个供用户以Python Dict或JSON格式编写（科研中实验）配置的库，在代码中用点.读写属性，同时可以从命令行中读取参数配置并修改参数值。 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
