@@ -7,13 +7,13 @@
 
 #### ⭐ Recent Stars
 
-- [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app (today)
-- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (1 day ago)
-- [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar. (5 days ago)
+- [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app (1 day ago)
+- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (2 days ago)
+- [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar. (6 days ago)
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command! (1 week ago)
 - [paperswithcode/galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA (1 week ago)
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (2 weeks ago)
-- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal (2 weeks ago)
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal (3 weeks ago)
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度 (3 weeks ago)
 - [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs (3 weeks ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (1 month ago)
