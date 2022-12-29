@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (6 days ago)
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (1 week ago)
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app (1 week ago)
 - [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (1 week ago)
-- [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar. (1 week ago)
+- [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar. (2 weeks ago)
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command! (2 weeks ago)
 - [paperswithcode/galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA (2 weeks ago)
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (3 weeks ago)
