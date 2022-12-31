@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. (today)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (1 week ago)
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app (1 week ago)
 - [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (1 week ago)
@@ -16,7 +17,6 @@
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (3 weeks ago)
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal (1 month ago)
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度 (1 month ago)
-- [wbkd/awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
