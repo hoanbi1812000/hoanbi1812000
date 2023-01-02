@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. (1 day ago)
+- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. (2 days ago)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (1 week ago)
-- [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app (1 week ago)
-- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (1 week ago)
+- [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app (1 week ago)
+- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (2 weeks ago)
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar. (2 weeks ago)
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command! (2 weeks ago)
 - [paperswithcode/galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA (3 weeks ago)
