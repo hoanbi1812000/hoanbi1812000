@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [krishnaik06/6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) -  (2 days ago)
+- [krishnaik06/6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) -  (3 days ago)
 - [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库 (1 week ago)
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -  (2 weeks ago)
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Sobirin1978](https://github.com/Sobirin1978)
 - [about-github](https://github.com/about-github)
 - [X601169957911](https://github.com/X601169957911)
 - [Hiimsonkul](https://github.com/Hiimsonkul)
 - [changtraixuqang97](https://github.com/changtraixuqang97)
-- [logit507](https://github.com/logit507)
 
 #### 💬 Feedback
 
