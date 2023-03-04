@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (4 days ago)
+- [replicate/scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI (today)
+- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND） (5 days ago)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (1 week ago)
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A &#39;CSS reset&#39; for TypeScript, improving types for common JavaScript API&#39;s (1 week ago)
 - [Kadenio/Pancakeswap-Sniper-Bot-Free](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) - A free sniper bot for Pancakeswap C# (2 weeks ago)
@@ -16,7 +17,6 @@
 - [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库 (1 month ago)
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -  (1 month ago)
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (1 month ago)
-- [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
