@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用 (3 days ago)
-- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) -  (4 days ago)
+- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用 (4 days ago)
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) -  (5 days ago)
 - [lamini-ai/lamini](https://github.com/lamini-ai/lamini) -  (1 week ago)
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models. (1 week ago)
 - [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (2 weeks ago)
