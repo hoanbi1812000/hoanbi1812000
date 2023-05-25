@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input (5 days ago)
+- [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input (6 days ago)
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用 (1 week ago)
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) -  (1 week ago)
 - [lamini-ai/lamini](https://github.com/lamini-ai/lamini) -  (2 weeks ago)
