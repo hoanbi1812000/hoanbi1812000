@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (1 day ago)
-- [zksync/credo](https://github.com/zksync/credo) -  (4 days ago)
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (2 days ago)
+- [zksync/credo](https://github.com/zksync/credo) -  (5 days ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (1 week ago)
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT&#43;Midjourney 网页服务 | Own your own ChatGPT&#43;Midjourney web service with one click (1 week ago)
 - [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (2 weeks ago)
