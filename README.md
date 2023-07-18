@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (4 days ago)
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (5 days ago)
 - [zksync/credo](https://github.com/zksync/credo) -  (1 week ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (1 week ago)
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT&#43;Midjourney 网页服务 | Own your own ChatGPT&#43;Midjourney web service with one click (2 weeks ago)
