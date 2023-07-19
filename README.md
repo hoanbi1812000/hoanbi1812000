@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (5 days ago)
+- [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (today)
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (6 days ago)
 - [zksync/credo](https://github.com/zksync/credo) -  (1 week ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (1 week ago)
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT&#43;Midjourney 网页服务 | Own your own ChatGPT&#43;Midjourney web service with one click (2 weeks ago)
@@ -16,7 +17,6 @@
 - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (1 month ago)
 - [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 (1 month ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer&#39;s Handbook (1 month ago)
-- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
