@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz) (1 day ago)
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system. (6 days ago)
+- [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz) (2 days ago)
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system. (1 week ago)
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (1 week ago)
-- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (1 week ago)
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (2 weeks ago)
 - [zksync/credo](https://github.com/zksync/credo) -  (2 weeks ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (2 weeks ago)
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT&#43;Midjourney 网页服务 | Own your own ChatGPT&#43;Midjourney web service with one click (3 weeks ago)
