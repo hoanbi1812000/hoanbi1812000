@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (today)
-- [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz) (3 days ago)
+- [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (1 day ago)
+- [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz) (4 days ago)
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system. (1 week ago)
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (1 week ago)
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (2 weeks ago)
