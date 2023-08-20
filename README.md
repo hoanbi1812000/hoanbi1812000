@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model (3 days ago)
+- [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model (4 days ago)
 - [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58 (1 week ago)
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models (1 week ago)
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~ (1 week ago)
