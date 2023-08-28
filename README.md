@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly. (1 day ago)
+- [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly. (2 days ago)
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model (1 week ago)
 - [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58 (2 weeks ago)
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models (2 weeks ago)
@@ -23,7 +23,7 @@
 - [rileyca](https://github.com/rileyca)
 - [currlybracket](https://github.com/currlybracket)
 - [alexica32](https://github.com/alexica32)
-- [tnarrj](https://github.com/tnarrj)
+- [dmytrmk](https://github.com/dmytrmk)
 - [tacknuzz](https://github.com/tacknuzz)
 
 #### 💬 Feedback
