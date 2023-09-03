@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (1 day ago)
-- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions&#39; network calls (3 days ago)
+- [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (2 days ago)
+- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions&#39; network calls (4 days ago)
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly. (1 week ago)
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model (2 weeks ago)
 - [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58 (3 weeks ago)
