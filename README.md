@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing (4 days ago)
-- [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (6 days ago)
+- [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing (5 days ago)
+- [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (1 week ago)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration) (1 week ago)
 - [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (2 weeks ago)
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions&#39; network calls (2 weeks ago)
