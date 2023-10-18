@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code. (1 day ago)
-- [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework (5 days ago)
+- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code. (2 days ago)
+- [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework (6 days ago)
 - [krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) -  (1 week ago)
 - [zhile-io/blank](https://github.com/zhile-io/blank) - 什么都没有。 (2 weeks ago)
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components (2 weeks ago)
