@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code. (5 days ago)
+- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code. (6 days ago)
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework (1 week ago)
-- [krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) -  (1 week ago)
+- [krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) -  (2 weeks ago)
 - [zhile-io/blank](https://github.com/zhile-io/blank) - 什么都没有。 (2 weeks ago)
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components (3 weeks ago)
 - [zhile-io/pandora](https://github.com/zhile-io/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely. (1 month ago)
