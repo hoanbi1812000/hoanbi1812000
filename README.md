@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (1 day ago)
-- [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox. (4 days ago)
+- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (2 days ago)
+- [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox. (5 days ago)
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code. (1 week ago)
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework (2 weeks ago)
 - [krishnaik06/The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) -  (2 weeks ago)
