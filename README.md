@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) -  (today)
-- [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks (4 days ago)
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) -  (1 day ago)
+- [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks (5 days ago)
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (1 week ago)
 - [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox. (1 week ago)
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code. (2 weeks ago)
