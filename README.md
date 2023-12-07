@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (today)
-- [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (3 days ago)
-- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (5 days ago)
-- [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍. (6 days ago)
+- [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (1 day ago)
+- [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (4 days ago)
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (6 days ago)
+- [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍. (1 week ago)
 - [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud &#43; Pandora Server &#43; Shared Chat &#43; BackendAPI Proxy &#43; Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one! (1 week ago)
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (1 week ago)
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium (1 week ago)
