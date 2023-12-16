@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI. (today)
-- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (1 day ago)
+- [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI. (1 day ago)
+- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (2 days ago)
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (1 week ago)
 - [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (1 week ago)
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (2 weeks ago)
