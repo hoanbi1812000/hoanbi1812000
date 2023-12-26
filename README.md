@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (today)
-- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 (1 day ago)
-- [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice &#43; Vision powered AI assistant that answers questions about any application, in context and in audio. (5 days ago)
-- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon (6 days ago)
+- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (1 day ago)
+- [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 (2 days ago)
+- [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice &#43; Vision powered AI assistant that answers questions about any application, in context and in audio. (6 days ago)
+- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon (1 week ago)
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. (1 week ago)
 - [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI. (1 week ago)
 - [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (1 week ago)
