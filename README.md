@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) -  (6 days ago)
+- [krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) -  (1 week ago)
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (1 week ago)
 - [linyiLYi/voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 (1 week ago)
 - [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice &#43; Vision powered AI assistant that answers questions about any application, in context and in audio. (2 weeks ago)
