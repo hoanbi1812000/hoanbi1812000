@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI (2 days ago)
-- [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (3 days ago)
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (6 days ago)
+- [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI (3 days ago)
+- [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (4 days ago)
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (1 week ago)
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger. (1 week ago)
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation (2 weeks ago)
 - [DLYuanGod/TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones (2 weeks ago)
