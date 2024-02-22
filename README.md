@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) -  (today)
-- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (1 day ago)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (4 days ago)
-- [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (6 days ago)
+- [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) -  (1 day ago)
+- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (2 days ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (5 days ago)
+- [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (1 week ago)
 - [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI (1 week ago)
 - [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (1 week ago)
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (2 weeks ago)
