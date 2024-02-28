@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Develop LLM Apps in Natural Language (2 days ago)
-- [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (4 days ago)
-- [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) -  (6 days ago)
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Develop LLM Apps in Natural Language (3 days ago)
+- [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (5 days ago)
+- [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) -  (1 week ago)
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (1 week ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 week ago)
 - [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (1 week ago)
