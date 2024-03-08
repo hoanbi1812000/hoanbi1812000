@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS! (1 day ago)
-- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (2 days ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS! (2 days ago)
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (3 days ago)
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming (1 week ago)
-- [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (1 week ago)
+- [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (2 weeks ago)
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) -  (2 weeks ago)
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (2 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 weeks ago)
 - [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (3 weeks ago)
 - [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI (3 weeks ago)
-- [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (3 weeks ago)
+- [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
