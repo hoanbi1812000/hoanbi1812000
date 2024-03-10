@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video. (today)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (3 days ago)
-- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (4 days ago)
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming (1 week ago)
+- [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video. (1 day ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (4 days ago)
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (5 days ago)
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming (2 weeks ago)
 - [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (2 weeks ago)
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) -  (2 weeks ago)
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (2 weeks ago)
