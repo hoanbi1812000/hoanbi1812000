@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (today)
-- [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video. (2 days ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (5 days ago)
-- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (6 days ago)
+- [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions (today)
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (1 day ago)
+- [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video. (3 days ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (6 days ago)
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (1 week ago)
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming (2 weeks ago)
 - [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (2 weeks ago)
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) -  (2 weeks ago)
-- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (2 weeks ago)
+- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (3 weeks ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (3 weeks ago)
-- [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
