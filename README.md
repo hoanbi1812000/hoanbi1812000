@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper firmware (3 days ago)
-- [openai/transformer-debugger](https://github.com/openai/transformer-debugger) -  (4 days ago)
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More (5 days ago)
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (6 days ago)
+- [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper firmware (4 days ago)
+- [openai/transformer-debugger](https://github.com/openai/transformer-debugger) -  (5 days ago)
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More (6 days ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (1 week ago)
 - [yuzu-mirror/yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork) (1 week ago)
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions (2 weeks ago)
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (2 weeks ago)
