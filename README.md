@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models (today)
-- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (2 days ago)
+- [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models (1 day ago)
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (3 days ago)
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for &#34;Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models&#34; (1 week ago)
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ (1 week ago)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. (2 weeks ago)
