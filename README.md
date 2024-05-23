@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 days ago)
-- [IcarusRyy/NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上 (4 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 days ago)
+- [IcarusRyy/NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上 (5 days ago)
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (1 week ago)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (1 week ago)
 - [Profluent-AI/OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI-generated gene editing systems (1 week ago)
