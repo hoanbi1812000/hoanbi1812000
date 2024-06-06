@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model. (today)
-- [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (4 days ago)
+- [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model. (1 day ago)
+- [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (5 days ago)
 - [WasperAI/Wasper](https://github.com/WasperAI/Wasper) -  (1 week ago)
 - [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (1 week ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 weeks ago)
