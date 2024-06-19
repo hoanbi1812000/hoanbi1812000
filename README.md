@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video&#43;code lecture on building nanoGPT from scratch (4 days ago)
+- [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video&#43;code lecture on building nanoGPT from scratch (5 days ago)
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation (1 week ago)
 - [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images. (1 week ago)
-- [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model. (1 week ago)
+- [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model. (2 weeks ago)
 - [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (2 weeks ago)
 - [WasperAI/Wasper](https://github.com/WasperAI/Wasper) -  (3 weeks ago)
 - [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (3 weeks ago)
